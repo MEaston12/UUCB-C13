@@ -6,6 +6,8 @@
 
 This project demonstrates capability in using the Sequelize package to create an Object Relational Model to interact with a database.  For a demonstration of the api in use, see the following video.
 
+[Link to demo of project](https://drive.google.com/file/d/1Y9NnnlEQFmkdiw-dtEuai3FmabTN-87a/view)
+
 ## Table of Contents
 
 1. [Description](#description)
